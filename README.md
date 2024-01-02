@@ -53,8 +53,8 @@ by just providing property configuration such as your `apiKey`.
 
 <dependency>
     <groupId>bg.codexio.springframework.boot</groupId>
-    <artifactId>openai-api-sdk</artifactId>
-    <version>spring-boot-starter-openai</version>
+    <artifactId>spring-boot-starter-openai</artifactId>
+    <version>0.8.0.BETA</version>
 </dependency>
 ```
 
