@@ -1,0 +1,11 @@
+bg.codexio.springframework.boot.autoconfigure.property.OpenAIProperties
+bg.codexio.springframework.boot.autoconfigure.bean.BeanConfig
+bg.codexio.springframework.boot.autoconfigure.property.EnvironmentPropertyAware
+bg.codexio.springframework.boot.autoconfigure.executor.chat.PropertyAwareChatHttpExecutor
+bg.codexio.springframework.boot.autoconfigure.executor.images.PropertyAwareCreateImageHttpExecutor
+bg.codexio.springframework.boot.autoconfigure.executor.images.PropertyAwareEditImageHttpExecutor
+bg.codexio.springframework.boot.autoconfigure.executor.images.PropertyAwareImageVariationHttpExecutor
+bg.codexio.springframework.boot.autoconfigure.executor.vision.PropertyAwareVisionHttpExecutor
+bg.codexio.springframework.boot.autoconfigure.executor.voice.PropertyAwareSpeechHttpExecutor
+bg.codexio.springframework.boot.autoconfigure.executor.voice.PropertyAwareTranscriptionHttpExecutor
+bg.codexio.springframework.boot.autoconfigure.executor.voice.PropertyAwareTranslationHttpExecutor
