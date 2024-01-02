@@ -11,7 +11,7 @@
 <div align="center">
 
 [![Maven Central](https://img.shields.io/maven-central/v/bg.codexio.springframework.boot/spring-boot-starter-openai?versionSuffix=BETA&color=EE5A9C)](https://central.sonatype.com/artifact/bg.codexio.ai/openai-api-sdk)
-[![Build](https://github.com/CodexioLtd/spring-boot-starter-openai/actions/workflows/maven.yml/badge.svg)](https://github.com/CodexioLtd/openai-api-sdk/actions/workflows/maven.yml)
+[![Build](https://github.com/CodexioLtd/spring-boot-starter-openai/actions/workflows/maven.yml/badge.svg)](https://github.com/CodexioLtd/spring-boot-starter-openai/actions/workflows/maven.yml)
 [![License](https://img.shields.io/github/license/CodexioLtd/spring-boot-starter-openai.svg)](https://github.com/CodexioLtd/spring-boot-starter-openai/blob/master/LICENSE)
 
 </div>
