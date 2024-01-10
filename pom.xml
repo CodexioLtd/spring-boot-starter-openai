@@ -12,7 +12,7 @@
 
     <groupId>bg.codexio.springframework.boot</groupId>
     <artifactId>spring-boot-starter-openai</artifactId>
-    <version>0.8.1.BETA</version>
+    <version>0.8.2.BETA-SNAPSHOT</version>
 
     <name>Spring Boot OpenAI SDK Starter</name>
     <description>
