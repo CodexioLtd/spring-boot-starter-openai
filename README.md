@@ -54,7 +54,7 @@ by just providing property configuration such as your `apiKey`.
 <dependency>
     <groupId>bg.codexio.springframework.boot</groupId>
     <artifactId>spring-boot-starter-openai</artifactId>
-    <version>0.8.0.BETA</version>
+    <version>0.8.1.BETA</version>
 </dependency>
 ```
 

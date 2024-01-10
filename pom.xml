@@ -12,7 +12,7 @@
 
     <groupId>bg.codexio.springframework.boot</groupId>
     <artifactId>spring-boot-starter-openai</artifactId>
-    <version>0.8.1.BETA-SNAPSHOT</version>
+    <version>0.8.1.BETA</version>
 
     <name>Spring Boot OpenAI SDK Starter</name>
     <description>
@@ -45,7 +45,7 @@
 
     <properties>
         <java.version>21</java.version>
-        <bg.codexio.openai.sdk.version>0.8.0.BETA</bg.codexio.openai.sdk.version>
+        <bg.codexio.openai.sdk.version>0.8.1.BETA</bg.codexio.openai.sdk.version>
         <org.projectlombok.version>1.18.30</org.projectlombok.version>
 
         <maven.compiler.version>3.12.1</maven.compiler.version>
